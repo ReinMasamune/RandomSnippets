@@ -2,6 +2,13 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs/RandomSnippets/v16/Server/sqlite3
 /.vs
-/EntityStateTable/obj
+/EntityStateTable/obj/Release/netstandard2.0
+/EntityStateTable/obj/project.assets.json
+/EntityStateTable/obj/EntityStateTable.csproj.nuget.g.targets
+/EntityStateTable/obj/EntityStateTable.csproj.nuget.g.props
+/EntityStateTable/obj/EntityStateTable.csproj.nuget.dgspec.json
+/EntityStateTable/obj/EntityStateTable.csproj.nuget.cache
+/EntityStateTable/obj/Debug/netstandard2.0
 /EntityStateTable/EntityStateTable.csproj
